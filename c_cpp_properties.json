@@ -11,7 +11,8 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.18362.0",
-            "compilerPath": "D:\\SoftWare\\MinGW\\mingw32\\bin\\g++.exe",
+            // c语言就改成D:\\SoftWare\\MinGW\\mingw32\\bin\\gcc.exe
+            "compilerPath": "D:\\SoftWare\\MinGW\\mingw32\\bin\\g++.exe",  
             "cStandard": "c11",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-gcc-x64"
