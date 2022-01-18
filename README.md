@@ -1,0 +1,3 @@
+# vscode_setting
+vscode的相关配置文件
+包含了setting配置以及c_cpp的配置
